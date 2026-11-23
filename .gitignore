@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+dataset/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+.streamlit/
+.DS_Store
+Thumbs.db
